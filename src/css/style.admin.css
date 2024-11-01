@@ -1,0 +1,50 @@
+body{
+  background-color:#f1f1f1;
+}
+.toplevel_page_userbot_settings .wp-menu-image > img {
+  display: block;
+  margin: 0 auto;
+  max-width: 22px;
+  height: auto;
+  padding-top: 5px !important;
+}
+.userbot-logo-container{
+  max-width:260px;
+}
+.userbot-alert{
+  color: #3122AB;
+  margin-bottom: 0;
+  margin-right: 20px;
+  font-size: .9rem;
+}
+.userbot-wrapper{
+  background-color: #fafafa;
+  border-radius: 8px;
+  box-shadow: 0 0 3px rgba(31,31,31,.3);
+  margin: 20px 20px 20px 0;
+  padding: 20px;
+}
+.userbot-primary-color{
+  color:#3122AB;
+}
+.userbot-button{
+  border-radius: 15px;
+  background-color: #3122AB;
+  color: #FFF !important;
+  border: 0;
+  padding: 13px 30px;
+  font-size: 1em;
+  font-weight: 300;
+  outline: none;
+  box-shadow: none;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  transition: border-color 0.3s linear,
+              background-color 0.3s linear,
+              color 0.3s linear,
+              transform 0.3s ease;
+}
+.userbot-button:hover{
+  background-color: #3e2bd5;
+}
